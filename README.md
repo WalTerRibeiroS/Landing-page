@@ -21,4 +21,4 @@ https://walterribeiros.github.io/Landing-page/
 
 ## 📸 Preview
 
-![Preview do Projeto] (imagens/preview.png)
+![Preview do Projeto](imagens/preview.png)
